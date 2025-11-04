@@ -35,7 +35,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadzhafiraufar" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:muhammadzhafiraufar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://zhafir-portfolio.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://www.linkedin.com/in/zhafir-aufar" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:zhafiraufar123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://aufarzhfr.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
