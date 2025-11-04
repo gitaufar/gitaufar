@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Snake Light](https://raw.githubusercontent.com/gitaufar/snk/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/gitaufar/snk/output/snake-dark.svg#gh-dark-mode-only)
