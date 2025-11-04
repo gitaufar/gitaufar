@@ -20,14 +20,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzhafir&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzhafir&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gitaufar&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitaufar&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
+<!--
 ### 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/muhammadzhafir/snk/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/gitaufar/snk/output/snake.svg)
+!-->
 
 ---
 
